@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HowsApp</string>
+    <string name="boutonText1">Valider</string>
+    <string name="boutonText2">Précédent</string>
+    <string name="boutonText3">Envoyer</string>
+    <string name="selectContact">Tout sélectionner</string>
+    <string name="choixTexte">Choisissez un message à envoyer</string>
+    <string name="changerNom">Changer le nom d\'un des contacts</string>
+    <string name="nomContact">Choisissez le nom du contact à changer</string>
+    <string name="changeContact">Changer le nom</string>
+</resources>
