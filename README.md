@@ -1,4 +1,4 @@
-# appli-messages-groupes
+# Application Android
 Application d'envoi groupé de messages personnalisés
 Dans le cadre de la formation DEUST Webmaster et Métiers de l'internet, pour la découverte du langage Java et du logiciel AndroidStudio, effectué en 10 jours avec Théo VACHER.
 
